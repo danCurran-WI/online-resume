@@ -3,16 +3,16 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Dan Curran                     # name
+  title: Data Analyst                  # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/sample_image.png # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: Milwaukee,WI  # location, text or markdown link syntax
+  email: dan.f.curran@gmail.com    # email address
+  phone: 414-339-4627  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
@@ -116,23 +116,13 @@ experience:
     The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Second Company
-      link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
 
-    - company: First Company
+    - company: Northwestern Mutual
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: Full-time
+      date: 2014.08 - 2025.03
+      role: Senior Developer
+      location: Milwaukee
       description: |
         Your key responsibilities and achievements in the company.
         + First
