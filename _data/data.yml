@@ -220,19 +220,16 @@ education:
       date: 
       major: 
       degree: 
-      description: |
-        Additional information for this institution.
-        + 9-month certificate in software development for non-CS majors
+      description: 9-month certificate in software development for non-CS majors
+        
 
     - institution: Marquette University
       link:
       date:  
       major:  
       degree: 
-      description: |
-        Additional information for this institution.
-        + Bachelor of Arts
-
+      description: Bachelor of Arts
+        
 certificate:
   show: true
   order: 6
