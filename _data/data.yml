@@ -120,7 +120,7 @@ experience:
     - company: Northwestern Mutual
       link:
       tags: Full-time
-      date: 2014.08 - 2025.03
+      date: 2014.08 - current
       role: Senior Developer
       location: Milwaukee
       description: |
@@ -213,26 +213,23 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
+    - institution: DePaul University
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      date: 
+      major: 
+      degree: 9-month certificate in software development for non-CS majors
       description: |
         Additional information for this institution.
         + First
         + Second
 
-    - institution: Example University
+    - institution: Marquette University
       link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+      date:  
+      major:  
+      degree: Bachelor of Arts
       description: |
         Additional information for this institution.
         + First
@@ -265,31 +262,8 @@ certificate:
       description: |
         It's my Example Certificate Two by Example.
 
-publication:
-  show: true
-  order: 7
-  title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
-  items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
 award:
-  show: true
+  show: false
   order: 8
   title: Awards
   description: |
@@ -314,7 +288,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
