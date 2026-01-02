@@ -112,36 +112,19 @@ experience:
   show: true
   order: 2
   title: Experiences
-  description: |Below are my recent positions for which I am trying to highlight the data  focuses tasks, which take up to 30% of my time and in the last years I have worked with primarily SQL Server applications.
-   
-  items:
-      - company: Northwestern Mutual
-      link:
-      tags: Full-time
-      date: 2024.01 - current
-      role: Senior Developer - Mutual Fund Accounting
-      location: Milwaukee
-      description: |
-        Data focused projects
-        + One
-        + Two
+  description: |
+    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
-        Other responsibilities
-        + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within managed investments.  
-        + Responsibilities included conducting team scrum meetings; hosting coordinate semiweekly code reviews in a community of > 25 developers; serving as the Risk Engineer; conducting job interviews of new employee candidates; Established procedures and best practices for team Production releases; hosted monthly innovation forum for a four-team department.
-    
+  items:
+
     - company: Northwestern Mutual
       link:
       tags: Full-time
-      date: 2018.01 - 2024.01
-      role: Senior Developer - Managed Investments
+      date: 2018.01 - current
+      role: Senior Developer
       location: Milwaukee
       description: |
-        Data focused projects
-        + One
-        + Two
-
-        Other responsibilities
+        Your key responsibilities and achievements in the company.
         + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within managed investments.  
         + Responsibilities included conducting team scrum meetings; hosting coordinate semiweekly code reviews in a community of > 25 developers; serving as the Risk Engineer; conducting job interviews of new employee candidates; Established procedures and best practices for team Production releases; hosted monthly innovation forum for a four-team department.
     
