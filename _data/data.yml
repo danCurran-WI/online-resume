@@ -112,7 +112,7 @@ experience:
   show: true
   order: 2
   title: Experiences
-  description: |Below are is my recent positions for which I am trying to highlight the data  focuses tasks, which take up to 30% of my time and in the last years I have worked with primarily SQL Server applications.
+  description: |Below are my recent positions for which I am trying to highlight the data  focuses tasks, which take up to 30% of my time and in the last years I have worked with primarily SQL Server applications.
    
   items:
       - company: Northwestern Mutual
