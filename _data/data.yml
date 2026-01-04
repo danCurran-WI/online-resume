@@ -22,15 +22,17 @@ profile:
   description: |
     I am an experience senior developer in a data intensive area of Northwestern Mutual, and interested in shifting my role to a more data focused one.
 
-    I've spend 8 years in the Managed Investments space at NM, primarily working as a team lead in the master data management project for investment data for the company's general account.  My role has required me to work on many data-intensive tasks and let me to desire more of this type of work. 
+    I've spend 8 years in the Managed Investments space at NM, primarily working as a team lead in the master data management project for investment data for the company's general account.  
+    I spend at least 30% of my time on data analysis and have worked with primarily SQL Server applications.
+    
+    My role has required me to work on many data-intensive tasks and let me to desire more of this type of work. 
 
 experience:
   show: true
   order: 2
   title: Experiences
   description: |
-    Below are my recent positions for which I am trying to highlight the data  focuses tasks, which take up to 30% of my time and in the last years I have worked with primarily SQL Server applications.
-  
+    Below are my recent positions for which I am trying to highlight the data  
   items:
 
     - company: Northwestern Mutual
@@ -68,25 +70,6 @@ project:
     In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
 
     The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
-  items:
-    - name: Personal project
-      link: '#'
-      tags:
-      date: 2015 - 2017
-      description: |
-        Personal project description...
-        + First
-        + Second
-
-    - name: OSS project
-      link:
-      tags: committer
-      date:
-      description: |
-        OSS project description...
-        + First
-        + Second
 
 skill:
   show: true
