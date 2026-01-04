@@ -42,21 +42,22 @@ experience:
       location: Milwaukee
       description: |
         Some examples of data analysis tasks
-        + Developing Markit EDM components, which use SQL, that inbound, master and export data in the domains of prices, trades, schedules and assets
-        + Preparing a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
-        + Developing Python modules to do a recon of data feeds from different vendors for the companies security holdings
-        + Leading a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business stake-holders
-        + Creating a Python module that analyzes developer capacity relative to assigned work in Jira
-        + Creating Python modules that compare incoming vendor files with the last 90-days of files in order to detect problematic feeds
-        + Presenting to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
-        + Created a SQL Best Practices document and promoted amongst a four team department
+        + Developed Markit EDM components, which use SQL, that inbound, master and export data in the domains of prices, trades, schedules and assets
+        + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
+        + Lead a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business stake-holders
+        + Presented to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
+        + Created a SQL Best Practices document and socialized it amongst a four teams of developers
+        + Developed Python programs using the pandas library that:
+            * Do a recons of data feeds from different vendors for the companies security holdings to generate PDF reports for business users
+            * Compare incoming vendor files with the last 90-days of files in order to detect problematic feeds
+            * Analyzes developer capacity relative to assigned work in Jira
         
         Technical leadership responsibilties
         + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within managed investments.  
         + Established procedures and best practices for team Production releases
         + Conducting team scrum meetings
         + Hosting coordinate semiweekly code reviews in a community of > 25 developers
-        + Serving as the Risk Engineer
+        + Serving as the Risk Engineer, who is responsible in certifying that multiple development teams implement required cyber-security and risk practices
         + Conducting job interviews of new employee candidates 
         + Hosting a monthly innovation forum for a four-team department
     
@@ -74,44 +75,12 @@ experience:
         + Managed Incident Response for support team, delegating incidents and directing communication to business partners and leadership
         + Responsible for vetting, selecting and onboarding new employees.
 
-project:
-  show: true
-  order: 3
-  title: Projects
-  description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
 skill:
   show: true
   order: 4
   title: Skills
   description: |
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-
-  items:
-    - name: Skill A
-      level: 5
-    - name: Skill B
-      level: 4
-    - name: Skill C
-      level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
 
   groups:
     - name: Group A Skills
@@ -159,24 +128,19 @@ certificate:
   description: |
     The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
 
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
 
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
+    - name: Certified Markit EDM Developer
+      issuer: IHS Markit (later bought by S&P)
+      date: 2018
       link: '#'
       description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
+        Certification in the master data management software used by NM
+    - name: SAFe Scrum Master 
+      issuer: Scaled Agile
       date: 2020
       link:
       description: |
-        It's my Example Certificate Two by Example.
+        Received certification to lead a scrum team when NM transitioned to using SAFe
 
 close: <strong>Sorry, my resume has been hidden.</strong>
