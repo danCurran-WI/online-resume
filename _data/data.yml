@@ -41,7 +41,7 @@ experience:
       role: Senior Developer - Managed Investments
       location: Milwaukee
       description: |
-        Some examples of data analysis tasks
+        Some examples of data analysis tasks:
         + Developed Markit EDM components, which use SQL, that inbound, master and export data in the domains of prices, trades, schedules and assets
         + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
         + Lead a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business stake-holders
@@ -52,7 +52,7 @@ experience:
             * Compare incoming vendor files with the last 90-days of files in order to detect problematic feeds
             * Analyzes developer capacity relative to assigned work in Jira
         
-        Technical leadership responsibilties
+        Technical leadership responsibilties:
         + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within managed investments.  
         + Established procedures and best practices for team Production releases
         + Conducting team scrum meetings
@@ -65,10 +65,10 @@ experience:
       link:
       tags: Full-time
       date: 2014.08 - 2018-01
-      role: Support Team Technical Lead Developer
+      role: Support Team Technical Lead
       location: Milwaukee
       description: |
-        Your key responsibilities and achievements in the company.
+        Key responsibilities:
         + Coordinated many large weekend releases involving multiple technical teams for our monthly releases. 
         + Presented the details of planned Changes to the Enterprise Change Board
         + Experienced in documenting actions and transitioning them to offshore resources
@@ -83,21 +83,17 @@ skill:
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
 
   groups:
-    - name: Group A Skills
+    - name: Data analysis and reporting skills
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - SQL queries (SQL Server)
+        - Python using pandas
+        - Excel
+        - Power BI
+    - name: Teamwork skills
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
-      item:
-        - Skill H
-        - Skill I
+        - Team organizing
+        - Onboarding and mentoring
+        - Best practices promotion
 
 education:
   show: true
@@ -126,9 +122,7 @@ certificate:
   order: 6
   title: Certificates
   description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-
+    
   items:
     - name: Certified Markit EDM Developer
       issuer: IHS Markit (later bought by S&P)
