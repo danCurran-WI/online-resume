@@ -13,18 +13,20 @@ contact:
   location: Milwaukee,WI  # location, text or markdown link syntax
   email: dan.f.curran@gmail.com    # email address
   phone: 414-339-4627  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  website: github.com/danCurran-WI/PythonWork # site link without schema, like example.com, will automatically prepend "https://"
 
 profile:
   show: true
   order: 1
   title: Profile
   description: |
-    I am an experience senior developer in a data intensive area of Northwestern Mutual, and interested in shifting my role to a more data focused one.
+    I am an experienced senior developer in a data intensive area of Northwestern Mutual and interested in shifting my role to a more data focused one.
 
     I've spent the last 8 years in the Managed Investments space at NM, primarily working primarily working as a team lead in the master data management project for investment data for the company's general account.  
 
     Serving in roles that require at least 30% of my time on data analysis (SQL Server applications) has led me to desire more of this type of work.
+
+    Please see my demos of personal projects in SQL and Python to learn more about me: https://github.com/danCurran-WI/PythonWork
    
 experience:
   show: true
@@ -42,24 +44,28 @@ experience:
       location: Milwaukee
       description: |
         Some examples of data analysis tasks:
-        + Developed Markit EDM components, which use SQL, that inbound, master and export data in the domains of prices, trades, schedules and assets
-        + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
-        + Lead a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business stake-holders
+        + Developed software solutions in a data mastering platform
+            * Markit EDM technology which uses embedded SQL
+            * Solutions that inbound, master and export data in the domains of prices, trades, schedules and assets
+        + Lead a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business partners
         + Presented to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
         + Created a SQL Best Practices document and socialized it amongst a four teams of developers
+        + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
         + Developed Python programs using the pandas library that:
             * Do a recons of data feeds from different vendors for the companies security holdings to generate PDF reports for business users
             * Compare incoming vendor files with the last 90-days of files in order to detect problematic feeds
-            * Analyzes developer capacity relative to assigned work in Jira
+            * Analyze developer capacity relative to assigned work in Jira
+            * Retrieve data from Jira to create Powerpoint slides for bi-weekly presentations to business stakeholders
         
         Technical leadership responsibilties:
-        + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within managed investments.  
+        + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within our company's institutional investment department.  
         + Established procedures and best practices for team Production releases
-        + Conducting team scrum meetings
-        + Hosting coordinate semiweekly code reviews in a community of > 25 developers
-        + Serving as the Risk Engineer, who is responsible in certifying that multiple development teams implement required cyber-security and risk practices
-        + Conducting job interviews of new employee candidates 
-        + Hosting a monthly innovation forum for a four-team department
+        + Produced over 4 hours of instructional videos for new hires in a rapidly growing development community
+        + Conducted team scrum meetings
+        + Hosted twice-a-week code reviews in a community of > 25 developers
+        + Responsible for certifying that multiple development teams implement cyber-security engineering requirements
+        + Conducted job interviews of candidates in an area that hired 12+ developers over three years
+        + Hosted a monthly innovation forum for a four-team department
     
     - company: Northwestern Mutual
       link:
@@ -69,7 +75,7 @@ experience:
       location: Milwaukee
       description: |
         Key responsibilities:
-        + Coordinated many large weekend releases involving multiple technical teams for our monthly releases. 
+        + Coordinated many large weekend releases involving multiple technical teams for our monthly releases 
         + Presented the details of planned Changes to the Enterprise Change Board
         + Experienced in documenting actions and transitioning them to offshore resources
         + Managed Incident Response for support team, delegating incidents and directing communication to business partners and leadership
@@ -83,15 +89,17 @@ skill:
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
 
   groups:
-    - name: Data analysis and reporting skills
+    - name: Data analysis and technical skills
       item:
         - SQL queries (SQL Server)
         - Python using pandas
         - Excel
         - Power BI
+        - shell scripts
+        - job scheduling platforms (Autosys and Control-M)
     - name: Teamwork skills
       item:
-        - Team organizing
+        - Team organizing and leadership
         - Onboarding and mentoring
         - Best practices promotion
 
