@@ -25,8 +25,6 @@ profile:
     I've spent the last 8 years in the Managed Investments space at NM, primarily working primarily working as a team lead in the master data management project for investment data for the company's general account.  
 
     Serving in roles that require at least 30% of my time on data analysis (SQL Server applications) has led me to desire more of this type of work.
-
-    Please see my demos of personal projects in SQL and Python to learn more about me: https://github.com/danCurran-WI/PythonWork
    
 experience:
   show: true
@@ -49,23 +47,22 @@ experience:
             * Solutions that inbound, master and export data in the domains of prices, trades, schedules and assets
         + Lead a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business partners
         + Presented to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
-        + Created a SQL Best Practices document and socialized it amongst a four teams of developers
+        + Created a SQL Best Practices document and socialized it amongst project developers
         + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
         + Developed Python programs using the pandas library that:
             * Do a recons of data feeds from different vendors for the companies security holdings to generate PDF reports for business users
             * Compare incoming vendor files with the last 90-days of files in order to detect problematic feeds
             * Analyze developer capacity relative to assigned work in Jira
-            * Retrieve data from Jira to create Powerpoint slides for bi-weekly presentations to business stakeholders
+            * Retrieve data from Jira to create PowerPoint slides for bi-weekly presentations to business stakeholders
         
         Technical leadership responsibilties:
         + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within our company's institutional investment department.  
         + Established procedures and best practices for team Production releases
         + Produced over 4 hours of instructional videos for new hires in a rapidly growing development community
         + Conducted team scrum meetings
-        + Hosted twice-a-week code reviews in a community of > 25 developers
-        + Responsible for certifying that multiple development teams implement cyber-security engineering requirements
-        + Conducted job interviews of candidates in an area that hired 12+ developers over three years
-        + Hosted a monthly innovation forum for a four-team department
+        + Hosted twice-a-week code reviews and monthly innovation forums in a community of > 25 developers
+        + Responsible for certifying that multiple development teams implement security engineering requirements
+        + Conducted job interviews of candidates in an area that hired 12+ developers over four years
     
     - company: Northwestern Mutual
       link:
