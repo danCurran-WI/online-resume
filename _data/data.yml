@@ -13,7 +13,7 @@ contact:
   location: Milwaukee,WI  # location, text or markdown link syntax
   email: dan.f.curran@gmail.com    # email address
   phone: 414-339-4627  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: github.com/danCurran-WI/PythonWork # site link without schema, like example.com, will automatically prepend "https://"
+  website: # site link without schema, like example.com, will automatically prepend "https://"
 
 profile:
   show: true
@@ -86,8 +86,7 @@ skill:
   order: 4
   title: Skills
   description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
+   
   groups:
     - name: Data analysis and technical skills
       item:
