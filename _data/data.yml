@@ -22,7 +22,7 @@ profile:
   description: |
     I am an experienced senior developer in a data intensive area of Northwestern Mutual and interested in shifting my role to a more data focused one.
     
-    I've spent the last 8 years in the Managed Investments space at NM, primarily working primarily working as a team lead in the master data management project for investment data for the company's general account.  
+    I've spent the last 8 years in the Managed Investments space at NM working as a team lead in the master data management project for investment data for the company's general account.  
 
     Serving in roles that require at least 30% of my time on data analysis (SQL Server applications) has led me to desire more of this type of work.
    
@@ -42,10 +42,10 @@ experience:
       location: Milwaukee
       description: |
         Some examples of data analysis tasks:
-        + Developed software solutions in a data mastering platform
+        + Developed software solutions in a master data management (MDM) platform
             * Markit EDM technology which uses embedded SQL
             * Solutions that inbound, master and export data in the domains of prices, trades, schedules and assets
-        + Lead a 4-person team in an analysis of the data flow of the company net asset value feeds to present to business partners
+        + Lead a four developers in an analysis of the data flow of the company net asset value feeds to present to business partners
         + Presented to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
         + Created a SQL Best Practices document and socialized it amongst project developers
         + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
@@ -72,7 +72,7 @@ experience:
       location: Milwaukee
       description: |
         Key responsibilities:
-        + Coordinated many large weekend releases involving multiple technical teams for our monthly releases 
+        + Coordinated large weekend releases involving multiple technical teams for our monthly releases 
         + Presented the details of planned Changes to the Enterprise Change Board
         + Experienced in documenting actions and transitioning them to offshore resources
         + Managed Incident Response for support team, delegating incidents and directing communication to business partners and leadership
