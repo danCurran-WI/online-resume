@@ -45,7 +45,7 @@ experience:
         + Developed software solutions in a master data management (MDM) platform
             * Markit EDM technology which uses embedded SQL
             * Solutions that inbound, master and export data in the domains of prices, trades, schedules and assets
-        + Lead a four developers in an analysis of the data flow of the company net asset value feeds to present to business partners
+        + Lead four developers in an analysis of the data flow of the company net asset value feeds to present to business partners
         + Presented to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
         + Created a SQL Best Practices document and socialized it amongst project developers
         + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
@@ -71,8 +71,8 @@ experience:
       location: Milwaukee
       description: |
         Key responsibilities:
-        + Coordinated large weekend releases involving multiple technical teams for our monthly releases 
-        + Presented the details of planned Changes to the Enterprise Change Board
+        + Coordinated large releases involving multiple technical teams 
+        + Presented the details of planned Changes to the company's change review board
         + Experienced in documenting actions and transitioning them to offshore resources
         + Managed Incident Response for support team, delegating incidents and directing communication to business partners and leadership
         + Responsible for selecting and onboarding new employees.
