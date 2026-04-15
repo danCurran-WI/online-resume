@@ -22,7 +22,7 @@ profile:
   description: |
     I am an experienced senior developer in a data intensive area of Northwestern Mutual and interested in shifting my role to a more data focused one.
     
-    I've spent the last 8 years in the Managed Investments space at NM working as a team lead in the master data management project for the company's general account.  
+    I've spent the last 8 years in the Managed Investments space at NM, primarily working as a team lead in the master data management project for the company's general account.  
 
     Serving in roles that require at least 30% of my time on data analysis (SQL Server applications) has led me to desire more of this type of work.
    
@@ -72,9 +72,9 @@ experience:
       description: |
         Key responsibilities:
         + Coordinated large releases involving multiple technical teams 
-        + Presented the details of planned Changes to the company's change review board
+        + Presented the details of planned changes to the company's change review board
         + Experienced in documenting actions and transitioning them to offshore resources
-        + Managed Incident Response for support team, delegating incidents and directing communication to business partners and leadership
+        + Managed incident response for the support team, delegating incidents and directing communication to business partners and leadership
         + Responsible for selecting and onboarding new employees.
 
 skill:
