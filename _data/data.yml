@@ -99,6 +99,13 @@ skill:
         - Team Leadership & Mentoring
         - Process Improvement
 
+     - name: Technical Program Management
+      item:
+        - Business Partner Engagement
+        - Technical Documentation
+        - Interviewing & Hiring
+        - Facilitation & Consensus Building    
+
     - name: Data & Investment Platforms
       item:
         - Data Quality & Governance
