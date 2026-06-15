@@ -89,19 +89,33 @@ skill:
   description: |
    
   groups:
-    - name: Data analysis and technical skills
+    - name: Technical Program Management
       item:
-        - SQL queries (SQL Server)
-        - Python using pandas
-        - Excel
+        - Agile / Scrum Leadership
+        - Risk Management
+        - Release Management
+        - Change Management
+        - Incident Management
+        - Team Leadership & Mentoring
+        - Process Improvement
+
+    - name: Data & Investment Platforms
+      item:
+        - Data Quality & Governance
+        - Data Integration
+        - Data Analysis
+        - Data Reconciliation
+        - Vendor Evaluation & Management
+        - Business Intelligence & Reporting
+        
+    - name: Technical Expertise
+      item:
+        - SQL Server
+        - Shell scripting
+        - Jira
+        - Python
         - Power BI
-        - shell scripts
-        - job scheduling platforms (Autosys and Control-M)
-    - name: Teamwork skills
-      item:
-        - Team organizing and leadership
-        - Onboarding and mentoring
-        - Best practices promotion
+        - Markit EDM
 
 education:
   show: true
