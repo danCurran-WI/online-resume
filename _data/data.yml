@@ -39,27 +39,30 @@ experience:
       role: Senior Developer - Managed Investments
       location: Milwaukee
       description: |
-        Some examples of data analysis tasks:
-        + Developed software solutions in a master data management (MDM) platform
-            * Markit EDM technology which uses embedded SQL
-            * Solutions that inbound, master and export data in the domains of prices, trades, schedules and assets
-        + Lead four developers in an analysis of the data flow of the company net asset value feeds to present to business partners
-        + Presented to business stakeholders the differences in daily prices for large data feeds between current and potentially new price vendors
-        + Created a SQL Best Practices document and socialized it amongst project developers
-        + Prepared a PowerBI paginated report of company holdings exceeding certain thresholds sourced from Snowflake
-        + Developed Python programs using the pandas library that:
-            * Do a recons of data feeds from different vendors for the companies security holdings to generate PDF reports for business users
-            * Compare incoming vendor files with the last 90-days of files in order to detect problematic feeds
-            * Analyze developer capacity relative to assigned work in Jira
-            * Retrieve data from Jira to create PowerPoint slides for bi-weekly presentations to business stakeholders
+        Technical leader responsible for delivering strategic data and investment platform initiatives within Northwestern Mutual's 
+        institutional investment organization. Partner closely with business stakeholders, architects, engineers, and 
+        vendor teams to drive execution of complex, cross-functional programs supporting the firm's General Account 
+        investment operations.
+
+         Program & Technical Leadership:
+       + Led a team of four developers in a comprehensive analysis of enterprise Net Asset Value (NAV) data flows, presenting findings and recommendations to business stakeholders and leadership.
+        + Served as Scrum Master and technical lead within a multi-team organization responsible for establishing the firm's master data management platform.
+        + Coordinated delivery activities across multiple development teams to ensure successful implementation of investment data solutions.
+        + Established release management procedures, deployment standards, and development best practices adopted across the team.
+        + Led technical governance efforts to ensure multiple development teams complied with enterprise security engineering requirements.
+        + Conducted technical interviews and participated in hiring initiatives during a period of significant organizational growth.
+        + Developed and delivered onboarding and training programs, including more than four hours of instructional content for new developers.
+        + Facilitated recurring code review sessions and innovation forums across a development community of more than 25 engineers.
         
-        Technical leadership responsibilties:
-        + Served as a scrum master and technical leader in a multi-team area responsible for building up a master data management hub within our company's institutional investment department.  
-        + Established procedures and best practices for team Production releases
-        + Produced over 4 hours of instructional videos for new hires in a rapidly growing development community
-        + Hosted twice-a-week code reviews and monthly innovation forums in a community of > 25 developers
-        + Responsible for certifying that multiple development teams implement security engineering requirements
-        + Conducted job interviews of candidates in an area that hired 12+ developers over four years
+        Stakeholder Management & Strategic Communication:
+        + Presented data quality analyses and vendor evaluations to business stakeholders to support investment data sourcing decisions.
+        + Partnered with business users, data vendors, and technical teams to identify, prioritize, and deliver solutions supporting critical investment operations.
+        + Communicated project status, risks, and technical recommendations to stakeholders across business and technology organizations.
+
+        Technical Delivery:
+        + Led development efforts supporting a Master Data Management (MDM) platform responsible for ingesting, mastering, and distributing investment data across multiple domains including assets, prices, trades, and schedules.
+        + Delivered reporting, automation, and operational tooling using SQL, Python, Power BI, Snowflake, and Jira to improve transparency, efficiency, and decision-making.
+        + Developed automated reconciliation and monitoring processes that improved data quality oversight and reduced operational risk.
     
     - company: Northwestern Mutual
       link:
