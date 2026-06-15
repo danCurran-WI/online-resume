@@ -20,12 +20,11 @@ profile:
   order: 1
   title: Profile
   description: |
-I am an experienced Senior Developer and technical leader with more than a decade of experience delivering enterprise technology solutions within Northwestern Mutual's investment management organization. Over the past eight years, I have led cross-functional initiatives supporting master data management, investment data platforms, and large-scale data integration efforts for the company’s General Account.
+   I am an experienced senior developer in a data intensive area of Northwestern Mutual and interested in shifting my role to a more data focused one.
+    
+   I've spent the last 8 years in the Managed Investments space at NM, primarily working as a team lead in the master data management project for the company's general account.  
 
-My background combines deep technical expertise with program leadership responsibilities, including leading development teams, coordinating multi-team initiatives, managing stakeholder communications, driving release and governance processes, and translating complex technical and data challenges into business-focused solutions. I have extensive experience analyzing and managing investment data across multiple domains, including prices, trades, schedules, and assets, while partnering closely with business stakeholders, data vendors, architects, and engineering teams.
-
-I am seeking to transition into a Technical Program Manager role where I can leverage my experience leading complex data-focused initiatives, coordinating across technical and business organizations, driving strategic execution, and delivering scalable solutions that align technology outcomes with business objectives.   
-
+   Serving in roles that require at least 30% of my time on data analysis (SQL Server applications) has led me to desire more of this type of work.
 experience:
   show: true
   order: 2
