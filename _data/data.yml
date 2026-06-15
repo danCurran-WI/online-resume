@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Dan Curran                     # name
-  title: Data Analyst                  # job title
+  title: Senior Developer and Technical Leader                 # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
