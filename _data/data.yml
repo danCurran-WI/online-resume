@@ -41,25 +41,25 @@ experience:
       role: Senior Developer - Managed Investments
       location: Milwaukee
       description: |
-        Team leader and scrum master responsible for delivering investment platform initiatives within Northwestern Mutual's institutional investment organization. Partner closely with business stakeholders, architects, engineers, and vendor teams to drive software development supporting the firm's General Account investment operations.
+        Team leader responsible for delivering investment platform initiatives within Northwestern Mutual's institutional investment organization. Partner closely with business stakeholders, architects, engineers, and vendor teams to drive software development supporting the firm's General Account investment operations.
         
         Program & Technical Leadership:
         + Served as Scrum Master and technical lead within a multi-team organization responsible for establishing the firm's 
         master data management platform.
         + Coordinated delivery activities across multiple development teams to ensure successful implementation of investment 
         data solutions.
-        + Established release management procedures, deployment standards, and development best practices adopted across the team.
-        + Led technical governance efforts to ensure multiple development teams complied with enterprise security engineering requirements.
+        + Established release management procedures and development best practices adopted across the team.
+        + Led efforts to ensure multiple development teams complied with enterprise security engineering requirements.
         + Conducted technical interviews and participated in hiring initiatives during a period of significant organizational growth.
-        + Developed and delivered onboarding and training programs, including more than four hours of instructional content for new developers.
-        + Facilitated recurring code review sessions and innovation forums across a development community of more than 25 engineers.
+        + Developed and delivered onboarding and training programs, including more than four hours of instructional videos for new developers.
+        + Facilitated weekly code review sessions and innovation forums across a development community of more than 25 engineers.
        
         Stakeholder Management & Strategic Communication:
-        + Presented data quality analyses and vendor evaluations to business stakeholders to support investment data sourcing decisions.
+        + Presented data quality analyses and vendor evaluations to business stakeholders.
         + Partnered with business users, data vendors, and technical teams to identify, prioritize, and deliver solutions supporting critical 
         investment operations.
-        + Communicated project status, risks, and technical recommendations to stakeholders across business and technology organizations.
-
+        + Communicated project status, risks, and technical recommendations to business and technology leaders.
+    
         Technical Delivery:
         + Led development efforts supporting a Master Data Management (MDM) platform responsible for ingesting, mastering, and distributing 
         investment data across multiple domains including assets, prices, trades, and schedules.
@@ -91,7 +91,6 @@ skill:
     - name: Technical Program Management
       item:
         - Agile / Scrum Leadership
-        - Risk Management
         - Release Management
         - Change Management
         - Incident Management
