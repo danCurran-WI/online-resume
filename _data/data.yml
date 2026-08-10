@@ -22,6 +22,7 @@ profile:
   description: |
    I am an experienced Senior Developer with more than a decade of experience delivering enterprise technology solutions within Northwestern Mutual. Over the past eight years I’ve worked on initiatives supporting master data management, investment data platforms, and large-scale data integration efforts for the company’s General Account and for Mutual Fund Administration.
 
+
    I am seeking to transition into a Business Analyst role where I can leverage my experience as a team lead on complex data-focused initiatives, coordinating across technical and business organizations, and delivering solutions to business partners.
 
   
@@ -48,6 +49,7 @@ experience:
         master data management platform.
         + Coordinated delivery activities across multiple development teams to ensure successful implementation of investment 
         data solutions.
+        + Wrote user stories in Jira with clear and concise Acceptance Criteria for the developers on our team. 
         + Established release management procedures and development best practices adopted across the team.
         + Led efforts to ensure multiple development teams complied with enterprise security engineering requirements.
         + Conducted technical interviews and participated in hiring initiatives during a period of significant organizational growth.
@@ -91,6 +93,7 @@ skill:
     - name: Technical Program Management
       item:
         - Agile / Scrum Leadership
+        - User Stories Creation
         - Release Management
         - Change Management
         - Incident Management
