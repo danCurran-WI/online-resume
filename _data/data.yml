@@ -37,19 +37,20 @@ experience:
       role: Senior Developer - Managed Investments
       location: Milwaukee
       description: |
-        Team leader responsible for delivering investment platform initiatives within Northwestern Mutual's institutional investment organization. Partner closely with business stakeholders, architects, engineers, and vendor teams to drive software development supporting the firm's General Account investment operations.
+        Team leader responsible for delivering investment platform initiatives within Northwestern Mutual's institutional investment organization. Partner closely with business stakeholders, product managers, architects and developers to drive software development supporting the firm's General Account investment operations.
          
         Program & Technical Leadership:
         + Served as Scrum Master and technical lead within a multi-team organization responsible for establishing the firm's 
         master data management platform.
         + Coordinated delivery activities across multiple development teams to ensure successful implementation of investment 
         data solutions.
-        + Wrote user stories in Jira with clear and concise Acceptance Criteria for the developers on our team. 
-        + Established release management procedures and development best practices adopted across the team.
-        + Led efforts to ensure multiple development teams complied with enterprise security engineering requirements.
+        + Collaborated with product owners to translate their features into actionable user stories for the development team. 
+        + Wrote user stories in Jira with clear and concise Acceptance Criteria. 
+        + Established release management procedures and development best practices adopted across multiple development teams.
+        + Led efforts to ensure that software developerment complied with security engineering requirements.
         + Conducted technical interviews and participated in hiring initiatives during a period of significant organizational growth.
-        + Developed and delivered onboarding and training programs, including more than four hours of instructional videos for new developers.
-        + Facilitated weekly code review sessions and innovation forums across a development community of more than 25 engineers.
+        + Created onboarding and training programs, including more than four hours of instructional videos for new developers.
+        + Hosted a weekly code review session and a monthly innovation forum across a development community of more than 25 engineers.
        
         Stakeholder Management & Strategic Communication:
         + Presented data quality analyses and vendor evaluations to business stakeholders.
